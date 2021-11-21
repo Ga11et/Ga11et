@@ -6,8 +6,8 @@
 
 ## Connect with me
 [<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/vkontakte.png' >][vk]
-[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/vkontakte.png' >][insta]
-[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/vkontakte.png' >][tg]
+[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/instagram.png' >][insta]
+[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/telegram.png' >][tg]
 
 ## Languages and tools
 - I know C++, python, but mostly I studied in html + css + js.
