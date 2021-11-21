@@ -13,12 +13,12 @@
 - I know C++, python, but mostly I studied in html + css + js.
 - Also I can work with react.
 
-[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/html.png' >][vk]
-[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/css.png' >][vk]
-[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/js.png' >][vk]
-[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/ts.png' >][vk]
-[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/react.png' >][vk]
-[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/github.png' >][vk]
+[<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/html.png' >][vk]
+[<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/css.png' >][vk]
+[<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/js.png' >][vk]
+[<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/ts.png' >][vk]
+[<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/react.png' >][vk]
+[<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/github.png' >][vk]
 
 ## Location
 - I live in Syktyvkar, Komi Republic. But I think about moving to somewhere
