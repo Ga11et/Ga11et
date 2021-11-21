@@ -1,6 +1,6 @@
 ### Hello there, I'm Fyodor.
 
-## I'm a teacher now, but want to be a programmer
+## I just want to be a programmer
 - I'm currantly learning some new features in React
 - I'm looking for some part-time job
 
