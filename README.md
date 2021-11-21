@@ -6,6 +6,8 @@
 
 ## Connect with me
 [<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/vkontakte.png' >][vk]
+[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/vkontakte.png' >][insta]
+[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/vkontakte.png' >][tg]
 
 ## Languages and tools
 - I know C++, python, but mostly I studied in html + css + js.
@@ -17,3 +19,5 @@
 
 
 [vk]: https://vk.com/sivaburka
+[insta]: https://www.instagram.com/sivayaburka
+[tg]: https://t.me/Sivayaburka
