@@ -19,6 +19,7 @@
 [<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/ts.png' >][vk]
 [<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/react.png' >][vk]
 [<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/github.png' >][vk]
+[<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/c++.png' >][vk]
 
 ## Location
 - I live in Syktyvkar, Komi Republic. But I think about moving to somewhere
