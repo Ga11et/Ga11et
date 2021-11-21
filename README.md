@@ -5,7 +5,7 @@
 - I'm looking for some part-time job
 
 ## Connect with me
-[<img width='32px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/vkontakte.png' >][https://vk.com/sivaburka]
+[<img width='32px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/vkontakte.png' >][vk]
 
 ## Languages and tools
 - I know C++, python, but mostly I studied in html + css + js.
@@ -13,3 +13,7 @@
 
 ## Location
 - I live in Syktyvkar, Komi Republic. But I think about moving to somewhere
+
+
+
+[vk]: https://vk.com/sivaburka
