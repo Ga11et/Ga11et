@@ -13,10 +13,12 @@
 - I know C++, python, but mostly I studied in html + css + js.
 - Also I can work with react.
 
-[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/css-3.png' >][vk]
-[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/html-5.png' >][vk]
-[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/js.png' >][vk]
-[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/c++.png' >][vk]
+[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/html.svg' >][vk]
+[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/css.svg' >][vk]
+[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/js.svg' >][vk]
+[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/ts.svg' >][vk]
+[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/react.svg' >][vk]
+[<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/github.svg' >][vk]
 
 ## Location
 - I live in Syktyvkar, Komi Republic. But I think about moving to somewhere
