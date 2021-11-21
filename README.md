@@ -5,6 +5,7 @@
 - I'm looking for some part-time job
 
 ## Connect with me
+[<img width='32px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/vkontakte.png' >]
 
 ## Languages and tools
 - I know C++, python, but mostly I studied in html + css + js.
