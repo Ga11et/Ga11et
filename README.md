@@ -4,7 +4,7 @@
 - I'm currantly learning some new features in React
 - I'm looking for some part-time job
 
-## Connect with me
+## Contact with me
 [<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/vkontakte.png' >][vk]
 [<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/instagram.png' >][insta]
 [<img width='40px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/telegram.png' >][tg]
