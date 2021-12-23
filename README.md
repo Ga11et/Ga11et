@@ -1,6 +1,6 @@
 ### Hello there, I'm Fyodor.
 
-## My portdolio Site:
+## My portfolio Site:
 https://ga11et.github.io/MyPorfolioPage/
 
 ## I just want to be a programmer
