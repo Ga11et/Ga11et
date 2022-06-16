@@ -13,8 +13,8 @@ https://ga11et.github.io/MyPorfolioPage/
 [<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/telegram.png' >][tg]
 
 ## Languages and tools
-- I know C++, python, but mostly I studied in html + css + js.
-- Also I can work with react.
+- I know C++, python, but mostly I studied in Reactjs.
+- Also I can work with react native.
 
 [<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/html.png' >][html]
 [<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/css.png' >][css]
