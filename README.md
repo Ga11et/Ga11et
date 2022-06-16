@@ -4,8 +4,8 @@
 https://ga11et.github.io/MyPorfolioPage/
 
 ## I just want to be a programmer
-- I'm currantly learning some new features in React
-- I'm looking for some part-time job
+- I'm currantly learning some new features in React native
+- I'm looking for some job
 
 ## Contact with me
 [<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/vkontakte.png' >][vk]
@@ -26,8 +26,7 @@ https://ga11et.github.io/MyPorfolioPage/
 [<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/python.png' >][python]
 
 ## Location
-- I live in Syktyvkar, Komi Republic. But I think about moving to somewhere
-
+- I live in St. Petersburg
 
 
 [vk]: https://vk.com/sivaburka
