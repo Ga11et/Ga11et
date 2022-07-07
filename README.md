@@ -3,10 +3,6 @@
 ## My portfolio Site:
 https://ga11et.github.io/MyPorfolioPage/
 
-## I just want to be a programmer
-- I'm currantly learning some new features in React native
-- I'm looking for some job
-
 ## Contact with me
 [<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/vkontakte.png' >][vk]
 [<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/instagram.png' >][insta]
