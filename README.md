@@ -4,9 +4,9 @@
 https://ga11et.github.io/MyPorfolioPage/
 
 ## Works:
-https://github.com/Ga11et/Courses
-https://github.com/Ga11et/agency
-https://github.com/Ga11et/hotelBooking
+# https://github.com/Ga11et/Courses
+# https://github.com/Ga11et/agency
+# https://github.com/Ga11et/hotelBooking
 
 ## Contact with me
 [<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/vkontakte.png' >][vk]
