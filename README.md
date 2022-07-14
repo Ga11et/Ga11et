@@ -1,19 +1,19 @@
-### Hello there, I'm Fyodor.
+# Hello there, I'm Fyodor.
 
-## Potrfolio:
+# Potrfolio:
 https://ga11et.github.io/MyPorfolioPage/
 
-## Works:
-# https://github.com/Ga11et/Courses
-# https://github.com/Ga11et/agency
-# https://github.com/Ga11et/hotelBooking
+# Works:
+### https://github.com/Ga11et/Courses
+### https://github.com/Ga11et/agency
+### https://github.com/Ga11et/hotelBooking
 
-## Contact with me
+# Contact with me
 [<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/vkontakte.png' >][vk]
 [<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/instagram.png' >][insta]
 [<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/telegram.png' >][tg]
 
-## Languages and tools
+# Languages and tools
 
 [<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/html.png' >][html]
 [<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/css.png' >][css]
@@ -24,7 +24,7 @@ https://ga11et.github.io/MyPorfolioPage/
 [<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/c++.png' >][c++]
 [<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/python.png' >][python]
 
-## Location
+# Location
 - I live in St. Petersburg
 
 
