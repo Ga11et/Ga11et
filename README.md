@@ -9,6 +9,7 @@
 ### https://github.com/Ga11et/Courses (React)
 ### https://github.com/Ga11et/agency (React)
 ### https://github.com/Ga11et/hotelBooking (React)
+### https://github.com/Ga11et/PositronIT (Vue + Vite)
 
 # Contact with me
 [<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/vkontakte.png' >][vk]
