@@ -10,6 +10,7 @@
 ### https://github.com/Ga11et/agency (React)
 ### https://github.com/Ga11et/hotelBooking (React)
 ### https://github.com/Ga11et/PositronIT (Vue + Vite)
+### https://github.com/Ga11et/htmlcsslayout (html/css only)
 
 # Contact with me
 [<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/vkontakte.png' >][vk]
