@@ -1,47 +1,49 @@
-# Hello there, I'm Fyodor.
+# Fyodor
+### Full-stack Engineer · TypeScript & PHP
 
-# Latest works:
-### https://github.com/Ga11et/PositronIT (Vue + Vite)
-### https://github.com/Ga11et/colors (Vue + webpack)
-### https://github.com/Ga11et/Tesonero (Vue + Vite)
+I build web applications across frontend and backend, with experience
+in e-commerce and CRM development.
 
-# Works:
-### https://github.com/Ga11et/floroteka (Vue)
-### https://github.com/Ga11et/florotekaBack (express)
-### https://github.com/Ga11et/Courses (React)
-### https://github.com/Ga11et/agency (React)
-### https://github.com/Ga11et/hotelBooking (React)
-### https://github.com/Ga11et/htmlcsslayout (html/css only)
+I've built the frontend of two e-commerce products from the ground up,
+led a development team, and designed database schemas.
+Currently working on a CRM and deepening my knowledge of system design.
 
-# Contact with me
-[<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/vkontakte.png' >][vk]
-[<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/instagram.png' >][insta]
-[<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/telegram.png' >][tg]
+## Selected work
 
-# Languages and tools
+### [Domovoy](https://tddomovoy.ru/)
+Home goods e-commerce · **Nuxt 3**
 
-[<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/html.png' >][html]
-[<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/css.png' >][css]
-[<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/js.png' >][js]
-[<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/ts.png' >][ts]
-[<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/react.png' >][react]
-[<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/github.png' >][github]
-[<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/c++.png' >][c++]
-[<img width='64px' src='https://raw.githubusercontent.com/Ga11et/Ga11et/main/icons/python.png' >][python]
+Built the entire frontend from scratch, including application architecture,
+the component system, authentication, and customer-facing features.
 
-# Location
-- I live in St. Petersburg
+### [Shurik Market](https://shurik.market/)
+Building materials e-commerce · **Nuxt 3 / Symfony 7.0**
 
+Built the entire frontend, including application architecture,
+the component system, and authentication.
+Led the development team and designed the database schema.
 
-[vk]: https://vk.com/sivaburka
-[insta]: https://www.instagram.com/sivayaburka
-[tg]: https://t.me/Sivayaburka
+### [Watched](https://github.com/Ga11et/watched)
+Personal project · **Nuxt 3 / NestJS / PostgreSQL**
 
-[html]: https://ru.wikipedia.org/wiki/HTML
-[css]: https://ru.wikipedia.org/wiki/CSS
-[js]: https://ru.wikipedia.org/wiki/JavaScript
-[ts]: https://www.typescriptlang.org/
-[react]: https://reactjs.org/
-[github]: https://github.com/
-[c++]: https://ru.wikipedia.org/wiki/C%2B%2B
-[python]: https://www.python.org/
+An application for tracking movies, series, books, and games.
+Built end to end: frontend, backend, and database.
+
+## Stack
+
+| Area | Technologies |
+| :--- | :--- |
+| Languages | TypeScript, PHP |
+| Frontend | Vue, Nuxt, Livewire, Alpine.js |
+| Backend | Node.js, Express, NestJS, Laravel, Symfony |
+| Database | PostgreSQL |
+
+## Beyond the code
+
+Avid PC gamer.
+
+## Connect
+
+[Telegram](https://t.me/Sivayaburka) ·
+[VK](https://vk.com/sivaburka) ·
+[Instagram](https://www.instagram.com/sivayaburka)
